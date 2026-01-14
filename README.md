@@ -2,6 +2,8 @@
 
 Simulasi jaringan enterprise menggunakan **Cisco Packet Tracer** yang mengintegrasikan **OSPF, EIGRP, VLAN, dan Access Control List (ACL)**.
 
+![](img/Topologi.JPG)
+
 ---
 
 ## Objective
