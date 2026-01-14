@@ -12,9 +12,9 @@ Halaman ini mendokumentasikan **hasil verifikasi konektivitas, routing, dan kebi
 
 **Command:**
 
-![alt text](<Hands_On-Pratice-2/img/Show Eigrp.JPG>)
+![alt text](<img/Show Eigrp.JPG>)
 
-![alt text](<Hands_On-Pratice-2/img/Show OSPF.JPG>)
+![alt text](<img/Show OSPF.JPG>)
 
 ---
 ## 2️⃣ Verifikasi Access Control List (ACL)
@@ -24,10 +24,6 @@ Halaman ini mendokumentasikan **hasil verifikasi konektivitas, routing, dan kebi
 - VLAN 30, 40, 50, 60 → HTTPS ke `11.11.11.0/29` ❌
 - Trafik selain HTTPS → diperbolehkan ✅
 
-![alt text](<Hands_On-Pratice-2/img/Test ACL Web Server.JPG>)
+![alt text](<img/Test ACL Web Server.JPG>)
 
----
-### File Packet Tracer
-
-[Hands_On Pratice 02](<Hands_On-Pratice-2/Hands_On Pratice 2.pkt>)
 ---
